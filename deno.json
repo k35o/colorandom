@@ -1,6 +1,6 @@
 {
   "name": "@k8o/colorandom",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "exports": "./mod.ts",
   "tasks": {
     "dev": "deno run --watch main.ts"
