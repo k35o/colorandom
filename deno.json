@@ -1,5 +1,5 @@
 {
-  "name": "@k8o/ui",
+  "name": "@k8o/colorandom",
   "version": "0.0.1",
   "exports": "./mod.ts",
   "tasks": {
