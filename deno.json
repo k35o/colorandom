@@ -1,5 +1,5 @@
 {
   "name": "@k8o/colorandom",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "exports": "./mod.ts"
 }
